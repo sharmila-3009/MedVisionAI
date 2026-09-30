@@ -1,0 +1,11 @@
+{
+  "name": "MedVision AI",
+  "description": "Smart Medicine Recognition Assistant for Elderly Healthcare with real-time camera scanning, dosage breakdown, voice guidance, family dashboard, and safety alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
